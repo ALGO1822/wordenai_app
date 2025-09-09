@@ -1,0 +1,8 @@
+Primary Color: #2d566f
+Background Color: #fefcf6
+Textfield & Card Border Color: #eae7e1
+Text Color: #1c2028
+Secondary Color: #398f92
+
+
+[{name: Microsoft George - English (United Kingdom), locale: en-GB}, {name: Microsoft Hazel - English (United Kingdom), locale: en-GB}, {name: Microsoft Susan - English (United Kingdom), locale: en-GB}, {name: Google Deutsch, locale: de-DE}, {name: Google US English, locale: en-US}, {name: Google UK English Female, locale: en-GB}, {name: Google UK English Male, locale: en-GB}, {name: Google español, locale: es-ES}, {name: Google español de Estados Unidos, locale: es-US}, {name: Google français, locale: fr-FR}, {name: Google हिन्दी, locale: hi-IN}, {name: Google Bahasa Indonesia, locale: id-ID}, {name: Google italiano, locale: it-IT}, {name: Google 日本語, locale: ja-JP}, {name: Google 한국의, locale: ko-KR}, {name: Google Nederlands, locale: nl-NL}, {name: Google polski, locale: pl-PL}, {name: Google português do Brasil, locale: pt-BR}, {name: Google русский, locale: ru-RU}, {name: Google 普通话（中国大陆）, locale: zh-CN}, {name: Google 粤語（香港）, locale: zh-HK}, {name: Google 國語（臺灣）, locale: zh-TW}]
